@@ -131,7 +131,7 @@ Developed and deployed real-world object detection & segmentation models for two
 </table>
 
 --- -->
-
+<div align="center">
 ##  Tech Stack & Skills
 
 ### Machine Learning & Deep Learning
