@@ -23,7 +23,7 @@ class MahmoudShehata:
     def __init__(self):
         self.role        = "AI Engineer"
         self.location    = "Cairo, Egypt 🇪🇬"
-        self.education   = "B.Sc. Computer Engineering — AI Dept., New Mansoura University (2026)"
+        self.education   = "B.Eng. Computer Engineering — AI Dept., New Mansoura University (2026)"
         self.languages   = ["Arabic (Native)", "English (Conversational)"]
         self.speciality  = "ML · NLP · LLMs · Agentic ai · MLOps"
 
