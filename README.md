@@ -227,6 +227,6 @@ Developed and deployed real-world object detection & segmentation models for two
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmod.shehata.cse@gmail.com)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b5563,50:6b7280,100:9ca3af&height=100&section=footer" width="100%"/>
 
 </div>
