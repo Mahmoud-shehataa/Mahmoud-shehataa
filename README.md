@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mahmoud%20Shehata&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20NLP%20%C2%B7%20LLMs%20%7C%20Building%20End-to-End%20AI%20Systems%20from%20Research%20to%20Production&descAlignY=55&descSize=18&descColor=a0aec0" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mahmoud%20Shehata&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20NLP%20%C2%B7%20LLMs%20%7C%20Building%20End-to-End%20AI%20Systems%20from%20Research%20to%20Production&descAlignY=55&descSize=18&descColor=a0aec0" width="100%"/> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b5563,50:6b7280,100:9ca3af&height=200&section=header&text=Mahmoud%20Shehata&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20NLP%20%C2%B7%20LLMs%20%7C%20Building%20End-to-End%20AI%20Systems%20from%20Research%20to%20Production&descAlignY=55&descSize=18&descColor=d1d5db" width="100%"/>
 
